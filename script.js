@@ -271,7 +271,7 @@ function fadeInEffect(){
 // FUNCTION CALLS
 
 locoScroll();
-// loadingAnimation()//
+loadingAnimation()
 cursorAnimation();
 sheryjsAnimation();
 flagHoverEffect();
